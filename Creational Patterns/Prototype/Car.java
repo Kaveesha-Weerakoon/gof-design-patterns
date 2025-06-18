@@ -1,6 +1,6 @@
 package Prototype;
 
-public class Car implements Prototype {
+public class  Car implements Prototype {
     private String brand;
     private String model;
 
