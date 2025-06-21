@@ -27,3 +27,4 @@ To understand, implement each of the 23 GoF design patterns categorized into:
   - Command
   - Visitor
   - Mediator 
+  - Iterator 
