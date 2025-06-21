@@ -26,3 +26,4 @@ To understand, implement each of the 23 GoF design patterns categorized into:
   - Chain of Responsibility
   - Command
   - Visitor
+  - Mediator 
