@@ -1,4 +1,4 @@
-package Memento;
+package Memento.Example1;
 
 class Memento {
     private final String state;

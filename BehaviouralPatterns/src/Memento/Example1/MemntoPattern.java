@@ -1,4 +1,4 @@
-package Memento;
+package Memento.Example1;
 
 public class MemntoPattern {
     public static void main(String[] args) {
